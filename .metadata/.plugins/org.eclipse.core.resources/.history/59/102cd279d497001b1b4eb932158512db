@@ -1,0 +1,5 @@
+package com.labotp2.services;
+
+public interface BaseService {
+
+}

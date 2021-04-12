@@ -1,0 +1,5 @@
+package com.labotp2.entities;
+
+public class Pais {
+
+}
